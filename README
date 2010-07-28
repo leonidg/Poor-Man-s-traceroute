@@ -1,0 +1,4 @@
+A simple implementation of the traceroute utility using Python.
+poor-mans-traceroute.py is a very basic one-function implementation.
+traceroute.py is a slightly more complete implementation accepting
+command-line arguments, etc.
